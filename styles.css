@@ -45,7 +45,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(135deg, #3498db, #8e44ad);
+    background: #663399;
     color: white;
     height: 100vh;
     display: flex;
